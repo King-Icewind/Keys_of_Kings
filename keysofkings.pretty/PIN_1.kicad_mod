@@ -1,0 +1,10 @@
+(module PIN_1 (layer F.Cu) (tedit 5AD291AD)
+  (tags "CONN pin 1 circle")
+  (fp_text reference PIN15 (at -2.8702 0.0381) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value D2/RX (at 2.9718 -0.1651) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+)
