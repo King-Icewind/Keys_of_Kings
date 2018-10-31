@@ -4,7 +4,6 @@ This is a collection of mods and library files for KiCad. Some of the components
 It's your responibility to check their datasheets. If you do find a mistake, please let me know.
 
 Happy Clacking,
-
 King Icewind
 
 www.keysofkings.com
